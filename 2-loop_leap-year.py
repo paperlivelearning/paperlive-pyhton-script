@@ -7,7 +7,6 @@ def is_leap_year(year):
         return False
 
 # Get input from the user
-start_year = int(input("Enter the starting year: "))
 end_year = int(input("Enter the ending year: "))
 
 # Check leap year for each year in the range
